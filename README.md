@@ -40,7 +40,8 @@ The MultiScene360 Dataset is designed to advance generative vision AI by providi
 
 ## 🎥 Camera Configuration  
 **Physical Setup**:  
-![Uploading lQLPKGy075SP2BfNA6HNB3-wmeb1jY31l8YH_BFmWKfDAA_1919_929.png…]()
+![lQLPKGy075SP2BfNA6HNB3-wmeb1jY31l8YH_BFmWKfDAA_1919_929](https://github.com/user-attachments/assets/164234e5-23f5-48f8-8a2b-133dcc91a604)
+
 
 
 **Technical Details**:  
