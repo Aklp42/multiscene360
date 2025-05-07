@@ -40,11 +40,8 @@ The MultiScene360 Dataset is designed to advance generative vision AI by providi
 
 ## 🎥 Camera Configuration  
 **Physical Setup**:  
- cam01──────cam02
-    \         /
-      Subject
-    /         \
-  cam04──────cam03
+![Uploading lQLPKGy075SP2BfNA6HNB3-wmeb1jY31l8YH_BFmWKfDAA_1919_929.png…]()
+
 
 **Technical Details**:  
 - **Cameras**: DJI Osmo Action 5 Pro (4 identical units)  
