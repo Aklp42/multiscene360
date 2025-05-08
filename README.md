@@ -59,7 +59,7 @@ The MultiScene360 Dataset is designed to advance generative vision AI by providi
 ## 🚀 Access Information  
 🎯 **[Sample Download Here](https://madacode.file.core.windows.net/root/360/detaset_sample_part.zip?sv=2023-01-03&st=2025-05-06T08%3A56%3A56Z&se=2028-01-07T08%3A56%3A00Z&sr=f&sp=r&sig=5R2FrdBqw35HIF0r2TaUxAsr0mz5h7oKDUHFFpkD8ik%3D)**  
 
-✨ **Free Public Download**: [https://maadaa.ai/multiscene360-Dataset](https://maadaa.ai/multiscene360-Dataset)  
+✨ **Free Full Dataset Download**: [https://maadaa.ai/multiscene360-Dataset](https://maadaa.ai/multiscene360-Dataset)  
 
 💼 **Commercial Inquiries**: [contact@maadaa.ai](mailto:contact@maadaa.ai)  
 
