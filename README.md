@@ -57,26 +57,28 @@ The MultiScene360 Dataset is designed to advance generative vision AI by providi
 4. Human motion transfer between viewpoints  
 
 ## 🚀 Access Information  
-✨ **Free Public Download**: [https://maadaa.ai/multiscene360](https://maadaa.ai/multiscene360)  
-💼 **Commercial Inquiries**: contact@maadaa.ai  
-🎯 **Usage Rights**:  
+🎯 **[Sample Download Here](https://madacode.file.core.windows.net/root/360/detaset_sample_part.zip?sv=2023-01-03&st=2025-05-06T08%3A56%3A56Z&se=2028-01-07T08%3A56%3A00Z&sr=f&sp=r&sig=5R2FrdBqw35HIF0r2TaUxAsr0mz5h7oKDUHFFpkD8ik%3D)**  
+
+✨ **Free Public Download**: [https://maadaa.ai/multiscene360-Dataset](https://maadaa.ai/multiscene360-Dataset)  
+
+💼 **Commercial Inquiries**: [contact@maadaa.ai](mailto:contact@maadaa.ai)  
+
+**Usage Rights:**  
 ✔ Free for academic/commercial use  
-✔ No registration required  
-✔ Includes basic annotations 
+✔ License: Attribution-NonCommercial-ShareAlike 4.0 International  
+
 
 ## About maadaa.ai
-We pioneer **production-ready Generative AI solutions** specializing in multi-modal content generation and synthetic data services:  
+Founded in 2015, maadaa.ai is a pioneering AI data service provider specializing in multimodal data solutions for generative AI development. We deliver end-to-end data services covering text, voice, image, and video datatypes – the core fuel for training and refining generative models.
 
-🚀 **Core Offerings**:  
-- **Multi-view Video Generation**: Turn sparse inputs into 360° dynamic scenes  
-- **Scene Reconstruction as a Service**: Instant 3D environments from video inputs  
-- **Synthetic Data Engine**: Custom datasets for vision models (automatically labeled)  
+**Our Generative AI Data Solution includes:**
+ꔷ High-quality dataset collection & annotation tailored for LLMs and diffusion models
+ꔷ Scenario-based human feedback (RLHF/RLAIF) to enhance model alignment
+ꔷ One-stop data management through our MaidX platform for streamlined model training
 
-
-💡 **Why Choose Us**:  
+**Why Choose Us**:  
 ✓ Reduce real-world data collection costs by 70%+  
 ✓ Generate perfectly labeled training data at scale  
 ✓ API-first integration for synthetic pipelines  
 
-*"Empowering the next generation of interactive media and spatial computing"*  
- 
+*Empowering the next generation of interactive media and spatial computing**
